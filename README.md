@@ -5,6 +5,7 @@
 - [x] **Day 4:** Users and Permissions
 - [x] **Day 5:** Package Management
 - [x] **Day 6:** Linux Process Management (top, htop, kill)
+- [x] **Week 1:** Fundamentals of Linux - Completed
 
 ## 🛠️ Tools Used
 - Terminal (WSL/Ubuntu)
