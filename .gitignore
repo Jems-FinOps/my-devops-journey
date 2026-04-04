@@ -1,0 +1,12 @@
+# System
+.local/
+.cache/
+.config/
+
+# Docker
+.docker/
+containers/
+
+# OS / editor
+.viminfo
+

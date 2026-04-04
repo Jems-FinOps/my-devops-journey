@@ -1,0 +1,11 @@
+Audit ስራ የተከናወነበት ቀን፡ Fri Feb 20 02:34:33 PM UTC 2026
+--- Disk Usage ---
+/dev/mapper/ubuntu--vg-ubuntu--lv   61G  5.4G   53G  10% /
+/dev/sda2                          2.0G  198M  1.6G  11% /boot
+/dev/sda1                          1.1G  6.2M  1.1G   1% /boot/efi
+--- CPU Load ---
+0.00
+--- Memory Usage ---
+               total        used        free      shared  buff/cache   available
+Mem:           648Mi       448Mi       156Mi       3.1Mi       261Mi       200Mi
+Swap:          2.0Gi        36Mi       2.0Gi
